@@ -1,0 +1,2 @@
+pyserial==3.5
+urllib3==1.26.8
